@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/drawable/ic_moon.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/drawable/ic_star_outline.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_main.xml" value="0.1702127659574468" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step1.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step1_completed.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step2.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step3.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step4.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step5.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step6.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step7.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step7_with_hint.xml" value="0.17046605876393112" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step8.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/activity_step8_completed.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/User/Documents/KodeCampIntermediateProjects/MotionLayoutTutorial/app/src/main/res/layout/list_item.xml" value="0.35052083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
